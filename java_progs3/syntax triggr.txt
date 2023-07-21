@@ -1,0 +1,13 @@
+create or replace trigger trname
+before/after/instead of
+ before / after insert/update/delete on tblname
+
+references (old as on
+for each row
+begin
+//detail
+end
+//detail
+
+
+
